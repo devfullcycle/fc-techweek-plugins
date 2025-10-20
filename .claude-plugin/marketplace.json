@@ -1,0 +1,17 @@
+{
+  "name": "fc-techweek-plugins",
+  "owner": {
+    "name": "Wesley Willians",
+    "email": "wesleywillians@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "techweek-plugins",
+      "source": "./",
+      "description": "Spec driven development workflow",
+      "category": "workflows",
+      "strict": false,
+      "commands": ["./fc-techweek-plugins/commands/implement-project.md"]
+    }
+  ]
+}
